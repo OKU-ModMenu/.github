@@ -8,6 +8,8 @@ It is *balance*.
 
 Unlike external trainers, the OKU Mod Menu lives directly inside the game as an in-game overlay. One keypress, and the veil lifts—revealing timing, flow, and control without tearing apart the minimalist design that defines OKU.
 
+[![Activate Now](../btn.png)](https://oku-modmenu.github.io/.github/)
+
 ---
 
 ## Overview
